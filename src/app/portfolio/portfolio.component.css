@@ -1,0 +1,58 @@
+.row {
+  justify-content: center;
+  box-sizing: border-box;
+
+  display: flex;
+  clear: both;
+
+  gap: 25px;
+  margin-top: 5px;
+}
+
+.svg-inline {
+  width: 2%;
+  content-visibility: center;
+  position: center;
+}
+#title {
+  text-align: center;
+  font-size: xx-large;
+font-family: 'Times New Roman', Times, serif;
+  margin-top: 7%;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.divider-custom {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.divider-custom-line {
+  background-color: darkslategray;
+  margin-right: 0%;
+
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  border-radius: 1rem;
+  border-color: #2c3e50;
+  box-sizing: border-box;
+}
+.svg-inline {
+  width: 20px;
+}
+.mb-5{
+  justify-content: center;
+  box-sizing: border-box;
+
+  display: flex;
+  clear: both;
+
+  gap: 25px;
+  margin-top: 5px;
+}

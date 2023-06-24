@@ -1,0 +1,57 @@
+
+
+.svg-inline{
+    width: 2%;
+    content-visibility: center;
+
+}
+#contact{
+    text-transform: uppercase;
+    color: darkslategray;
+    margin-bottom: 0;
+    font-size: 2rem;
+    line-height: 2.75rem;
+    text-align: center;
+    padding: 20px;
+    float: calc(center);
+    font-weight: 500;
+
+
+}
+.divider-custom {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.divider-custom-line {
+    background-color: darkslategray;
+    margin-right: 0%;
+    
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    border-radius: 1rem;
+    border-color: #2c3e50;
+    box-sizing: border-box;
+
+
+}
+.svg-inline{
+    width: 20px;    
+
+}
+.contactform{
+    display: inline-block;
+    width: 150px;
+   margin-left: 65% !important;
+}
+
+.lable{
+    margin: 800px;
+    
+}
+
